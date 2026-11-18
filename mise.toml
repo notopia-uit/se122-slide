@@ -1,0 +1,10 @@
+#:schema https://raw.githubusercontent.com/jdx/mise/refs/heads/main/schema/mise.json
+
+[tools]
+just = "latest"
+node = "25"
+"npm:skills" = "latest"
+pnpm = "10"
+
+[shell_alias]
+pi = "pnpm install"
